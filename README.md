@@ -1,6 +1,5 @@
 # Computational Inclusion Survey
 
-https://selgebali.github.io/Acmhi_Computational_Inclusion.io/
 
 Many areas in academia have recently become increasingly data driven, producing an inexorable amount of data, which in turn has shifted the way we conduct research.
 
@@ -34,3 +33,8 @@ If you are interested in surveying the digital landscape in your institute and/o
 **Sara on Twitter: @yalahowy**
 
 **email: selgebali@gmail.com** 
+
+**GitHub: @selgebali** 
+
+PS: for background information on how the project started please have a look at: 
+https://selgebali.github.io/Acmhi_Computational_Inclusion.io/
