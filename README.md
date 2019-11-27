@@ -36,5 +36,5 @@ If you are interested in surveying the digital landscape in your institute and/o
 
 **GitHub: @selgebali** 
 
-PS: for background information on how the project started please have a look at (https://selgebali.github.io/Acmhi_Computational_Inclusion.io/)[https://selgebali.github.io/Acmhi_Computational_Inclusion.io/]
+PS: for background information on how the project started please have a look at (detailed version)[https://selgebali.github.io/Acmhi_Computational_Inclusion.io/]
 
