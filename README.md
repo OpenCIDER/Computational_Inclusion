@@ -31,15 +31,16 @@ If you are interested in surveying the digital landscape in your institute and/o
 
 # Get in touch <a name="touch"></a>
 
-**Sara El-Gebali** <br>
-Slack: acmhi.slack.com <br>
+### Sara El-Gebali <br>
+
+**Slack: acmhi.slack.com <br>
 email: acmhi@protonmail.com <br>
 Twitter: @yalahowy <br>
 Mastodon: @selgebali <br>
 Riot: @yalahowy:matrix.org <br>
 Riot room: computational_inclusion:matrix.org <br>
 email: selgebali@gmail.com <br>
-GitHub: @selgebali <br>
+GitHub: @selgebali <br>**
 
 
 ## PS: for background information on how the project started please have a look at the [detailed version](https://selgebali.github.io/Acmhi_Computational_Inclusion.io/)
